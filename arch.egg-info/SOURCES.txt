@@ -1,4 +1,13 @@
 pyproject.toml
+./app/__init__.py
+./app/api/__init__.py
+./app/api/v1/__init__.py
+./app/core/__init__.py
+./app/deps/__init__.py
+./app/models/__init__.py
+./app/repositories/__init__.py
+./app/schemas/__init__.py
+./app/services/__init__.py
 arch.egg-info/PKG-INFO
 arch.egg-info/SOURCES.txt
 arch.egg-info/dependency_links.txt
