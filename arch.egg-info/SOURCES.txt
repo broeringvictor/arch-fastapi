@@ -1,0 +1,6 @@
+pyproject.toml
+arch.egg-info/PKG-INFO
+arch.egg-info/SOURCES.txt
+arch.egg-info/dependency_links.txt
+arch.egg-info/requires.txt
+arch.egg-info/top_level.txt
